@@ -9,7 +9,7 @@
 
 ---
 
-<h1>### 🌐 Connect with Me</h1>
+<h3 align="center"> 🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nethmi-kavindya-6664a2335" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
