@@ -54,10 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmi-kavi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<h3 align="center">🐍 Contributions Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nethmi-kavi/nethmi-kavi/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 ---
 
