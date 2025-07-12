@@ -1,7 +1,7 @@
 <h3 align="center">✨ Welcome to My Profile</h3>
 <h3 align="center">👋 Welcome to My GitHub</h3>
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/hello.gif?raw=true" width="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 <p align="center" style="background-color:#f0f0f0; padding: 20px;">
   <b>Hi, I am Nethmi Kavindya</b>
