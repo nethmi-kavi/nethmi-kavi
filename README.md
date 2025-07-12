@@ -39,6 +39,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/dark-banner.png" alt="Banner" width="100%">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nethmi-kavi&show_icons=true&theme=radical" alt="Nethmi's GitHub Stats" />
 </p>
 
