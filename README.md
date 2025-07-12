@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nethmi Kavindya</h1>
+<p align="center" style="background-color:#f0f0f0; padding: 20px;">
+  <b>Hi, I am Nethmi Kavindya</b>
+</p>
 <h3 align="center">🚀 Passionate Frontend Developer | 🎨 UI/UX Enthusiast | 📍 Sri Lanka</h3>
 
 <p align="center">
